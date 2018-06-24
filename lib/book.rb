@@ -10,6 +10,5 @@ class Book
   end
 end
 
-  book = Book.new("Some Title")
+  book = Book.new(" ")
   book.turn_page
-
